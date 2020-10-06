@@ -26,5 +26,5 @@ Executive file for the econometric time series data study from Section 6. Can pi
 ### PA.csv, IL.csv, OH.csv, MI.csv
 ####################
 
-Files containing Federal Reserve (FRED) seasonally-adjusted monthly time series data on 18 economic indicator variables (all described in the paper) from 1976 up until 2016 for each state. Function 'Load.Data', defined in 'Paper.functions.R' file and executed in 'Real.Data.Four.States.R' file, deals with extracting our time series of interest out of these files.
+Files containing Federal Reserve (FRED) seasonally-adjusted monthly time series data - from https://fred.stlouisfed.org/tags/series -  on 18 economic indicator variables (all described in the paper) from 1976 up until 2016 for each state. Function 'Load.Data', defined in 'Paper.functions.R' file and executed in 'Real.Data.Four.States.R' file, deals with extracting our time series of interest out of these files.
 
